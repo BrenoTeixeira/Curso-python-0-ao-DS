@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run interactive_dash.py --server.enableXsrfProtection=false
